@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there! I'm Stas Berchun!
+Junior Full-Stack Developer from Ukraine.  
+Currently focused on **Python Django** and **JavaScript React**.
 
-<!--
-**s72385319/s72385319** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Currently Working On
 
-Here are some ideas to get you started:
+- Small projects with Django
+- Improving my frontend skills with React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+
+| Languages | Frameworks & Libraries | Tools |
+| :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=python,javascript,html,css" /> | <img src="https://skillicons.dev/icons?i=django,react" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode" /> |
+
+### Goals
+
+- Become a Middle Full-Stack Developer
+- Build my own Marketplace
+- Learn C#, Unity, and Blender
+
+### Let's connect!
+
+- Discord: d3k47e54
+- Email: stasberchun@gmail.com
