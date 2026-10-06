@@ -14,15 +14,13 @@ Trainee / Junior Full-Stack Developer from Ukraine. Focused on **Python Django**
 ### Tech Stack
 | Languages | Frameworks & Libraries | Tools |
 | :---: | :---: | :---: |
-(| <img src="https://skillicons.dev/icons?i=python" width="40" /> 
-  <img src="https://skillicons.dev/icons?i=js" width="40" /> 
-  <img src="https://skillicons.dev/icons?i=html" width="40" /> 
-  <img src="https://skillicons.dev/icons?i=css" width="40" /> | )
-  <img src="https://skillicons.dev/icons?i=django" width="40" /> 
-  <img src="https://skillicons.dev/icons?i=react" width="40" /> | 
-  <img src="https://skillicons.dev/icons?i=git" width="40" /> 
-  <img src="https://skillicons.dev/icons?i=github" width="40" /> 
-  <img src="https://skillicons.dev/icons?i=vscode" width="40" /> |
+| <img src="https://skillicons.dev/icons?i=python" width="40" /> <img src="https://skillicons.dev/icons?i=js" width="40" /> <img src="https://skillicons.dev/icons?i=html" width="40" /> 
+<img src="https://skillicons.dev/icons?i=css" width="40" /> |
+<img src="https://skillicons.dev/icons?i=django" width="40" /> 
+<img src="https://skillicons.dev/icons?i=react" width="40" /> | 
+<img src="https://skillicons.dev/icons?i=git" width="40" /> 
+<img src="https://skillicons.dev/icons?i=github" width="40" /> 
+<img src="https://skillicons.dev/icons?i=vscode" width="40" /> |
 
 ### Goals (next 2-3 years)
 - Become a Middle Full-Stack Developer
