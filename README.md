@@ -8,7 +8,7 @@ Trainee / Junior Full-Stack Developer from Ukraine. Focused on **Python (Django)
 
 ### Currently Learning / Working On
 - Building full-stack To-Do
-- Improving my frontend skills with **JavaScript (React)**.
+- Improving my frontend skills with **JavaScript (React)**
 
 ### Tech Stack
 
