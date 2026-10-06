@@ -1,4 +1,5 @@
 # Hi there! I'm Stas Berchun!
+
 ### About Me
 Trainee / Junior Full-Stack Developer from Ukraine. Focused on **Python Django** and **JavaScript React**. I am 17 years old and studying Entrepreneurship, Trade, and Stock Exchange Activities in college.
 - **Now listening / Previous listening :**
@@ -11,13 +12,19 @@ Trainee / Junior Full-Stack Developer from Ukraine. Focused on **Python Django**
 - Improving my frontend skills with React
 
 ### Tech Stack
-
 | Languages | Frameworks & Libraries | Tools |
 | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=python" width="40" /> <img src="https://skillicons.dev/icons?i=js" width="40" /> <img src="https://skillicons.dev/icons?i=html" width="40" /> <img src="https://skillicons.dev/icons?i=css" width="40" /> | <img src="https://skillicons.dev/icons?i=django" width="40" /> <img src="https://skillicons.dev/icons?i=react" width="40" /> | <img src="https://skillicons.dev/icons?i=git" width="40" /> <img src="https://skillicons.dev/icons?i=github" width="40" /> <img src="https://skillicons.dev/icons?i=vscode" width="40" /> |
+| <img src="https://skillicons.dev/icons?i=python" width="40" /> 
+  <img src="https://skillicons.dev/icons?i=js" width="40" /> 
+  <img src="https://skillicons.dev/icons?i=html" width="40" /> 
+  <img src="https://skillicons.dev/icons?i=css" width="40" /> | 
+  <img src="https://skillicons.dev/icons?i=django" width="40" /> 
+  <img src="https://skillicons.dev/icons?i=react" width="40" /> | 
+  <img src="https://skillicons.dev/icons?i=git" width="40" /> 
+  <img src="https://skillicons.dev/icons?i=github" width="40" /> 
+  <img src="https://skillicons.dev/icons?i=vscode" width="40" /> |
 
 ### Goals (next 2-3 years)
-
 - Become a Middle Full-Stack Developer
 - Build my own Marketplace
 
