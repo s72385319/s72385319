@@ -1,6 +1,6 @@
 # Hi there! I'm Stas Berchun!
 ### About Me
-Trainee/Junior Full-Stack Developer from Ukraine (17 y.o).
+Trainee/Junior Full-Stack Developer from Ukraine (17 y.o.).
 Focused on **Python (Django)** and **JavaScript (React)**. 
 Currently studying Entrepreneurship, Trade, and Stock Exchange Activities at college.
 - **Now listening / Previous listening :**
