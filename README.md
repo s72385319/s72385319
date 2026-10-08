@@ -10,6 +10,7 @@ Trainee / Junior Full-Stack Developer from Ukraine. Focused on **Python Django**
 ### Currently Working On
 - Building full-stack To-Do
 - Improving my frontend skills with React
+- Learning Django REST Framework
 
 ### Tech Stack
 | Languages | Frameworks & Libraries | Tools |
