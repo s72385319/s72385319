@@ -1,0 +1,14 @@
+<svg width="340" height="150" viewBox="0 0 340 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="340" height="150" rx="8" fill="#161b22"/>
+  
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.75.75 0 001.28.53l2.22-2.22 2.22 2.22a.75.75 0 001.28-.53v-3.25H5z" fill="#8b949e" transform="translate(18, 20) scale(1.1)"/>
+
+  <text x="44" y="32" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#58a6ff">DayCore</text>
+
+  <text x="20" y="60" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" fill="#8b949e">
+    <tspan x="20" dy="0">A day tracker and a set of mini-tools.</tspan>
+  </text>
+
+  <circle cx="27" cy="113" r="5" fill="#f1e05a"/>
+  <text x="38" y="117" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#8b949e">JavaScript</text>
+</svg>
