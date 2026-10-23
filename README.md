@@ -24,5 +24,7 @@ Trainee / Junior Full-Stack Developer from Ukraine. Focused on **Python Django**
 - Build my own Marketplace
 
 ### Let's connect!
+https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/X3X3X3X3X3X3X3X3X3X3X3X3)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/d3k47e54)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stasberchun@gmail.com)
