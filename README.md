@@ -12,7 +12,7 @@ Trainee / Junior Full-Stack Developer from Ukraine. Focused on **Python Django**
 - Learning Django REST Framework
 
 ### Tech Stack
-<img src="https://skillicons.dev/icons?i=c,python,js,html,css,django,react,git,github,vsc" />
+<img src="https://skillicons.dev/icons?i=c,python,js,html,css,django,react,git,github,vscode" />
 
 ### Projects
 <a href="https://github.com/s72385319/DayCore">
