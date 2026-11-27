@@ -27,3 +27,4 @@ Trainee / Junior Full-Stack Developer from Ukraine. Focused on **Python Django**
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/X3X3X3X3X3X3X3X3X3X3X3X3)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1089855889038639164)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stasberchun@gmail.com)
+<p><em>Open Discord only in a browser; otherwise, the link won't work.</em></p>
